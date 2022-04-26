@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnesMTGG
 - Now 2nd of april of 22 Getting started with Github
-- 👀 I’m interested in programming and web-development  
+- 👀 I’m interested in programming and web-development, also in blockchain technology interested in.   
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: search me in tg by @anesmt
